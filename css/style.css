@@ -4,4 +4,12 @@ body {
 h2 {
     font-size: 14px;
     font-style: bold;
+    color: red;
+}
+img {
+    height: 200px;
+    width: 300px;
+}
+#pet-name {
+    color: blue;
 }
